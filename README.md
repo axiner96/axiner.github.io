@@ -25,9 +25,12 @@
 7. 祝您求职成功！
 
 ## 预览
+[本人在线简历](https://junglehunter96.github.io/)
 
 ### PC端
+![](assets/images/pc.png)
 ### 移动端
+![](assets/images/mobile.png)
 ## TODO
 - [ ] 输出pdf功能
 
